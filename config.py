@@ -1,7 +1,7 @@
 ##################################################################
-#											 					 #
-#			STAR ATLAS DATABASE & GLOBAL CONFIGURATION			 #
-#																 #
+#								 #
+#	STAR ATLAS DATABASE & GLOBAL CONFIGURATION		 #
+#								 #
 ##################################################################
 
 import ephem
