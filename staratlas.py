@@ -22,7 +22,7 @@ from graphics import *
 from ephem import *
 
 
-def main():
+def GenerateMap():
 	observer = SetObserver()
 	window = SetEnvironment()
 
