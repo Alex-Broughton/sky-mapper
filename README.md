@@ -1,12 +1,11 @@
-*******************************************************************
-*			 					  *
-*			 STAR ATLAS v.1.0.0   			  *
-*	        Python 3.6.2 (v3.6.2:5) GCC v4.2.1	          *
-*		 					          *
-*	        	   Alex Broughton	                  *
-*			     08.30.2017 		          *
-*							          *
-*******************************************************************
+
+			 STAR ATLAS v.1.0.0   			  
+	        Python 3.6.2 (v3.6.2:5) GCC v4.2.1	          
+		 					          
+	        	   Alex Broughton	                  
+			     08.30.2017 		          
+
+
 
 
 StarAtlas is a python-3.6 based customizable generator for localized 
@@ -28,8 +27,8 @@ directory, but extra object databases in XEPHEM format can be found at:
 https://git.nexlab.net/astronomy/skylived/tree/bd59190026d9d95b39983f8a0106a7e17023aee8/DecraDB/xephemdb
 
 
-		GLOBAL VARIABLE REFERENCE
-***********************************************************
+GLOBAL VARIABLE REFERENCE
+
 VERBOSE = False						# Show detailed mag/alt/az data during runtime
 STATISTICS = True					# Show breakdown of tabulated stars
 MAG_0 = 0						# System variable; always keep these as zero at launch time
