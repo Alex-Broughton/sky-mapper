@@ -1,5 +1,5 @@
 
-						 STAR ATLAS v.1.0.0   			  
+						 STAR ATLAS v.2.0.1   			  
 	  		     	          Python 3.6.2 (v3.6.2:5) GCC v4.2.1	          
 		 					          
 	      				  	   Alex Broughton	                  
@@ -16,6 +16,10 @@ and objects from the built-in EPHEM database, the Yale Bright Star
 the map to their specifications by simply changing the global parameters 
 in the config.py module. The Star Atlas application takes care of scaling 
 and non-user defined functionality for an easy-to-use interface.
+
+This application can map planets, stars, constellations, and DSO's onto a 
+stereographic projection of the sky given a location of obervation on the 
+Earth.
 
 
 Dependencies: graphics.py v.5.0.1, ephem.py v.3.7.6.0
