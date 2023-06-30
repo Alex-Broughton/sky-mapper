@@ -1,5 +1,5 @@
 
-						 STAR ATLAS v.2.0.1   			  
+						 Sky-Mapper v.3.0.1   			  
 	  		     	          Python 3.6.2 (v3.6.2:5) GCC v4.2.1	          
 		 					          
 	      				  	   Alex Broughton	                  
@@ -8,7 +8,7 @@
 
 
 
-StarAtlas is a python-3.6 based customizable generator for localized 
+Sky-Mapper is a python-3.6 based customizable generator for localized 
 star maps intended for the amateur astronomer and for web-development. 
 The application currently has a database with over 3,500 stars, planets
 and objects from the built-in EPHEM database, the Yale Bright Star 
